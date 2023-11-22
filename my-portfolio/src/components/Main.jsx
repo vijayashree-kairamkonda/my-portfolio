@@ -8,10 +8,11 @@ export const Main = () => {
         />
       </div>
       <div>
-        <div className="text-4xl font-bold text-center">Hi, I am Vijayashree</div>
+        <div className="text-4xl font-bold text-center">
+          Hi, I am Vijayashree
+        </div>
         <div className="text-2xl font-semibold text-center">
-          I am a Front End Engineer. Currently working at DHAN AI as a Front End
-          Engineer.
+          Front End Developer working for DHAN AI
         </div>
       </div>
       <div className="flex w-full justify-center space-x-10 items-center">
